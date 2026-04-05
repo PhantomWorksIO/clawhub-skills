@@ -1,6 +1,6 @@
 ---
 name: Amazon Listing Auditor for Chinese Sellers
-description: "Audit Amazon listings for Chinese sellers. Flags translation errors, cultural misfires, awkward phrasing, keyword gaps, and tone problems that hurt conversion with Western buyers. Triggers: amazon listing audit, listing review, listing translation check, chinese seller amazon, cn amazon, listing quality, listing score, listing copy review. 专为中国卖家设计的亚马逊Listing诊断工具。自动检测翻译错误、文化表达偏差、措辞不当、关键词缺失等问题，帮助提升对欧美买家的转化率。触发词：亚马逊listing审核、listing诊断、跨境电商、中国卖家亚马逊、listing翻译检查、listing质量评分"
+description: "专为中国跨境卖家设计的亚马逊Listing诊断工具，自动检测翻译错误、文化偏差、措辞问题和关键词缺失，帮助提升欧美买家转化率。Amazon listing audit skill for Chinese cross-border sellers — flags translation errors, cultural misfires, keyword gaps, and awkward phrasing that kills conversions with Western buyers. Triggers: amazon listing audit, listing review, chinese seller amazon, listing quality, listing copy review, 亚马逊listing审核, listing诊断, 跨境电商listing, listing翻译检查"
 metadata:
   openclaw:
     homepage: https://github.com/PhantomWorksIO/clawhub-skills
