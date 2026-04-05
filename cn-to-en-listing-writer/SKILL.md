@@ -1,6 +1,6 @@
 ---
 name: Amazon CN to EN Listing Writer
-description: "Turn Chinese product information into polished Amazon listings in English. Paste Chinese product details, specs, or supplier copy — get 3 variations of a complete Amazon listing (title + 5 bullets + description) optimized for Western buyers. Triggers: amazon listing writer, chinese to english listing, cn amazon listing, listing rewrite, product listing generator, amazon copy, cross-border seller, listing translation"
+description: "Turn Chinese product information into polished Amazon listings in English. Paste Chinese product details, specs, or supplier copy — get 3 variations of a complete Amazon listing (title + 5 bullets + description) optimized for Western buyers. Triggers: amazon listing writer, chinese to english listing, cn amazon listing, listing rewrite, product listing generator, amazon copy, cross-border seller, listing translation. 将中文产品信息转化为专业的英文亚马逊Listing。粘贴中文产品资料、规格参数或供应商描述，自动生成3个完整的亚马逊listing版本（标题+5条要点+描述），专为欧美买家优化。触发词：亚马逊listing撰写、中文转英文listing、跨境电商选品描述、产品标题生成、亚马逊资料翻译"
 metadata:
   openclaw:
     homepage: https://github.com/PhantomWorksIO/clawhub-skills
