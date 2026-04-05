@@ -1,5 +1,5 @@
 ---
-name: cn-to-en-listing-writer
+name: Amazon CN to EN Listing Writer
 description: "Turn Chinese product information into polished Amazon listings in English. Paste Chinese product details, specs, or supplier copy — get 3 variations of a complete Amazon listing (title + 5 bullets + description) optimized for Western buyers. Triggers: amazon listing writer, chinese to english listing, cn amazon listing, listing rewrite, product listing generator, amazon copy, cross-border seller, listing translation"
 metadata:
   openclaw:

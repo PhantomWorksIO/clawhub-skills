@@ -1,5 +1,5 @@
 ---
-name: cn-amazon-listing-auditor
+name: Amazon Listing Auditor for Chinese Sellers
 description: "Audit Amazon listings for Chinese sellers. Flags translation errors, cultural misfires, awkward phrasing, keyword gaps, and tone problems that hurt conversion with Western buyers. Triggers: amazon listing audit, listing review, listing translation check, chinese seller amazon, cn amazon, listing quality, listing score, listing copy review"
 metadata:
   openclaw:
