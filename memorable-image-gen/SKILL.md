@@ -1,14 +1,14 @@
 ---
-name: memorable-image-gen
-description: >
-  Science-backed image generation agent that scores and optimizes images for memorability using
-  ResMem (Brain Bridge Lab, University of Chicago) before returning results. Unlike generic image
-  generators, this agent iterates until the image clears a memorability threshold — producing
-  visuals that stick in viewers' minds. Use for blog hero images, marketing visuals, social media
-  graphics, product thumbnails, or any context where image recall matters.
-  Triggers on: "generate a memorable image", "create a blog hero image", "make a marketing visual
-  that sticks", "image that people will remember", or any image generation request where
-  memorability is a goal.
+name: Memorable Image Generator
+description: "Science-backed image generation agent that scores and optimizes images for memorability using ResMem (Brain Bridge Lab, University of Chicago) before returning results. Unlike generic image generators, this agent iterates until the image clears a memorability threshold — producing visuals that stick in viewers' minds. Use for blog hero images, marketing visuals, social media graphics, product thumbnails, or any context where image recall matters. Triggers on: generate a memorable image, create a blog hero image, make a marketing visual that sticks, image that people will remember, or any image generation request where memorability is a goal."
+metadata:
+  openclaw:
+    homepage: https://github.com/PhantomWorksIO/clawhub-skills
+    emoji: "🧠"
+    category: media
+    requires:
+      env: ["GEMINI_API_KEY"]
+      python_packages: ["resmem", "torch", "torchvision", "pillow", "requests"]
 ---
 
 # Memorable Image Generator
