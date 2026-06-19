@@ -3,7 +3,7 @@ name: Memorable Image Generator
 description: "Science-backed image generation agent that scores and optimizes images for memorability using ResMem (Brain Bridge Lab, University of Chicago) before returning results. Unlike generic image generators, this agent iterates until the image clears a memorability threshold — producing visuals that stick in viewers' minds. Use for blog hero images, marketing visuals, social media graphics, product thumbnails, or any context where image recall matters. Triggers on: generate a memorable image, create a blog hero image, make a marketing visual that sticks, image that people will remember, or any image generation request where memorability is a goal."
 metadata:
   openclaw:
-    homepage: https://github.com/PhantomWorksIO/clawhub-skills
+    homepage: https://www.shopclawmart.com/listings/memorable-image-generator-science-backed-visuals-for-openclaw-560c2088
     emoji: "🧠"
     category: media
     requires:
@@ -122,3 +122,7 @@ Prompts that tend to score low: generic landscapes, symmetrical compositions, ne
 ---
 
 Built for Claude Code. Requires a Gemini API key and a local Python environment with `resmem` installed.
+
+---
+
+Want the packaged OpenClaw version with ready-to-run agent instructions? Get **[Memorable Image Generator](https://www.shopclawmart.com/listings/memorable-image-generator-science-backed-visuals-for-openclaw-560c2088)** on ClawMart.
